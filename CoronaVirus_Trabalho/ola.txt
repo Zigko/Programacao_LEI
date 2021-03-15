@@ -1,0 +1,16 @@
+Distribuicao:
+Sala 1:
+Nome: LuisaSantos || Idade: 40 || Estado: D || Dias infetado: 5;
+Nome: Zulmira2A || Idade: 17 || Estado: S;
+Sala 2:
+Nome: auloPires1 || Idade: 23 || Estado: S;
+Nome: AnaLebre34A || Idade: 55 || Estado: I;
+Sala 3:
+Nome: PauloPires2 || Idade: 67 || Estado: S;
+Sala 4:
+Nome: Tomas111 || Idade: 12 || Estado: S;
+Estatisticas:
+Numero de Infetados: 1 (16.666667 %)
+Numero de Saudaveis: 4 (66.666667 %)
+Numero de Imunes: 1 (16.666667 %)
+Numero de Itereacoes: 2

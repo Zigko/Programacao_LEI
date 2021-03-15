@@ -1,0 +1,30 @@
+Distribuicao:
+Sala 1:
+Nome: auloPires1 || Idade: 23 || Estado: D || Dias infetado: 7;
+Nome: HugoA || Idade: 20 || Estado: S;
+Nome: PauloAlves123 || Idade: 34 || Estado: D || Dias infetado: 2;
+Nome: Carlos1 || Idade: 20 || Estado: D || Dias infetado: 2;
+Nome: SandraMotaA1 || Idade: 24 || Estado: D || Dias infetado: 6;
+Nome: LeonardoL || Idade: 10 || Estado: S;
+Sala 2:
+Nome: SofiaA || Idade: 23 || Estado: S;
+Nome: SamuelSimoes || Idade: 56 || Estado: D || Dias infetado: 7;
+Nome: SandraS || Idade: 56 || Estado: D || Dias infetado: 7;
+Nome: HugoC || Idade: 14 || Estado: S;
+Nome: PedroPedra || Idade: 27 || Estado: S;
+Nome: DianaD || Idade: 89 || Estado: S;
+Nome: TobiasF || Idade: 98 || Estado: S;
+Sala 3:
+Nome: Tomas111 || Idade: 12 || Estado: I;
+Nome: PauloPires2 || Idade: 67 || Estado: S;
+Nome: Olivia1 || Idade: 12 || Estado: S;
+Nome: CarlaCardoso || Idade: 34 || Estado: S;
+Sala 4:
+Nome: MarcoMarquesAAA || Idade: 40 || Estado: I;
+Nome: Zulmira2A || Idade: 17 || Estado: S;
+Nome: HugoB || Idade: 25 || Estado: S;
+Estatisticas:
+Numero de Infetados: 6 (30.000000 %)
+Numero de Saudaveis: 12 (60.000000 %)
+Numero de Imunes: 2 (10.000000 %)
+Numero de Itereacoes: 6
